@@ -19,9 +19,8 @@ dashboards, and models that turn raw data into real, interpretable decisions.
 
 ## 📌 What I'm Looking For
 
-Open to **Data Science**, **Data Analytics**, and **Business Intelligence** roles across any 
-industry — especially where machine learning, automation, and visualization create measurable 
-impact.
+Open to **Data Science** and **Data Analytics** roles across any 
+industry.
 
 ---
 
