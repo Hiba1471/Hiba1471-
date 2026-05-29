@@ -5,6 +5,9 @@ I'm a Recent Statistics graduate from **North Carolina State University**  with 
 in data automation, analytics, machine learning, and visualization. I love building pipelines, 
 dashboards, and models that turn raw data into real, interpretable decisions.
 
+Open to **Data Science** and **Data Analytics** roles across any 
+industry.
+
 ---
 
 ## 🛠️ Skills & Tools
@@ -14,13 +17,6 @@ dashboards, and models that turn raw data into real, interpretable decisions.
 - **Visualization & BI:** Power BI and Excel
 - **Automation:** Power Automate 
 - **Statistics:** Regression Analysis, Experimental Design, Survey Sampling, Risk Assessment, and Bayesian Analysis 
-
----
-
-## 📌 What I'm Looking For
-
-Open to **Data Science** and **Data Analytics** roles across any 
-industry.
 
 ---
 
